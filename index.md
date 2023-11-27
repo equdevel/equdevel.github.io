@@ -1,5 +1,7 @@
 [SnowRunner_mod_installer](https://github.com/equdevel/SnowRunner_mod_installer) - mods installer from mod.io website to SnowRunner
 
+[SnowRunner_time_control](https://github.com/equdevel/SnowRunner_time_control) - allows to control time in SnowRunner
+
 [MouseYoke](https://github.com/equdevel/MouseYoke) - mouse yoke plugin for X-Plane 11
 
 [RSA_chat](https://github.com/equdevel/rsa_chat) - simple chat with RSA encryption
